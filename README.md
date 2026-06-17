@@ -10,7 +10,6 @@ A full-featured Islamic marriage biodata generator built with Laravel 12, offeri
 - **Photo Upload** – Upload and embed photos directly in the PDF
 - **Custom Fields** – Add unlimited custom fields dynamically
 - **Duplicate Prevention** – Smart duplicate detection using name + father + mother combination
-- **Email Integration** – Send biodata PDFs directly via email
 - **Responsive Design** – Works on all devices
 - **Print-Ready** – Optimized for printing
 
@@ -22,14 +21,11 @@ A full-featured Islamic marriage biodata generator built with Laravel 12, offeri
 - **Database**: MySQL
 - **Fonts**: Kalpurush (Bengali), Noto Serif Bengali
 
-## 📸 Screenshots
-
-
 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/marriage-biodata.git
+git clone https://github.com/mahadi-cse-21/marriage-biodata-maker.git
 cd marriage-biodata
 composer install
 cp .env.example .env
